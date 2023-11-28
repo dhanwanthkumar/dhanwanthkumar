@@ -1,6 +1,6 @@
 # dhanwanthkumar
 
-**'Computer Science Engineer (Developer)'**
+<mark>Computer Science Engineer (Developer)</mark>
 
 im a junior software developer,and I am thrilled to share my journey in the realm of Computer Science Engineering. 
 My passion for creating efficient, innovative solutions propels me forward in the ever-evolving tech landscape. 
@@ -19,4 +19,16 @@ In this digital space, I invite you to explore my portfolio, showcasing a myriad
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />       
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
+<br />
+
+#
+
+### Stats
+
+![dhanwanthkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanwanthkumar&show_icons=true&theme=gruvbox)
+
+#
+
+<details>
+    <summary><h3></h3></summary>
+        i started my coding journey at 1st year.
