@@ -30,8 +30,6 @@ In this digital space, I invite you to explore my portfolio, showcasing a myriad
 
 ### Stats
 
-![dhanwanthkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanwanthkumar&show_icons=true&theme=gruvbox)
-
 #
 
 <details>
