@@ -25,13 +25,3 @@ In this digital space, I invite you to explore my portfolio, showcasing a myriad
 <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />          
-
-#
-
-### Stats
-
-#
-
-<details>
-    <summary><h3>How i Started Coding !</h3></summary>
-        i started my coding journey at 1st year.
