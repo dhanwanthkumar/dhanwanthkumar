@@ -1,11 +1,37 @@
-# dhanwanthkumar
+# Hi there, I'm DK! 👋
 
-<mark>Computer Science Engineer (Developer)</mark>
+#### <mark> _Computer science Engineer | (Software Developer)_</mark>
 
-im a junior software developer,and I am thrilled to share my journey in the realm of Computer Science Engineering. 
-My passion for creating efficient, innovative solutions propels me forward in the ever-evolving tech landscape. 
-My professional odyssey commenced at Zoho Company, where I delved into the intricacies of software development and honed my skills in cloud operations.During my tenure, I garnered invaluable expertise in programming languages, fortified by practical applications in networking, operating systems, and security concepts.
-In this digital space, I invite you to explore my portfolio, showcasing a myriad of projects, each a testament to my dedication and proficiency in the field. 
+<img src="https://github.com/dhanwanthkumar/dhanwanthkumar/blob/main/DK.gif" style="width:1100px">
+
+
+I am a Junior Software Developer passionate about creating innovative solutions in the tech landscape. 
+My journey began at Zoho Corporation, where I developed skills in 
+
+>- **cloud operations**
+>    - **programming** 
+>        - **networking, and security**
+
+Proficient in **data structures** and **algorithms**, I focus on optimizing code and enhancing performance. Eager to continue learning and contributing to the tech community, I am dedicated to advancing in the field of Computer Science Engineering.
+
+##### "In this digital space, I invite you to explore my portfolio, showcasing a myriad of projects, each a testament to my dedication and proficiency in the field." 
+
+---
+
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+> [!IMPORTANT]
+> Vital information required for users to attain success.
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+> [!CAUTION]
+> Possible negative outcomes resulting from an action.
 
 ---
 
