@@ -13,25 +13,11 @@ I am a Junior Software Developer passionate about creating innovative solutions 
 >    - **programming** 
 >        - **networking, and security**
 
-Proficient in **data structures** and **algorithms**, I focus on optimizing code and enhancing performance. Eager to continue learning and contributing to the tech community, I am dedicated to advancing in the field of Computer Science Engineering.
-
-##### "In this digital space, I invite you to explore my portfolio, showcasing a myriad of projects, each a testament to my dedication and proficiency in the field." 
-
----
-
-
-
-> [!TIP]
-> Additional advice to aid users in achieving better outcomes.
 
 > [!IMPORTANT]
-> Vital information required for users to attain success.
+>Proficient in **data structures** and **algorithms**, I focus on optimizing code and enhancing performance. Eager to continue learning and contributing to the tech community, I am dedicated to advancing in the field of Computer Science Engineering.
 
-> [!WARNING]
-> Urgent content that requires immediate user focus due to possible risks.
-
-> [!CAUTION]
-> Possible negative outcomes resulting from an action.
+##### "In this digital space, I invite you to explore my portfolio, showcasing a myriad of projects, each a testament to my dedication and proficiency in the field." 
 
 ---
 
