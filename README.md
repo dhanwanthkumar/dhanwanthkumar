@@ -1,4 +1,4 @@
-# Hi there, I'm DK! 👋
+# Hi there, I'm Dhanwanth Kumar! 👋
 
 <mark> _Computer science Engineer | (Software Developer)_</mark>
 
