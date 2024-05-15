@@ -4,6 +4,7 @@
 
 <img src="https://github.com/dhanwanthkumar/dhanwanthkumar/blob/main/DK.gif" style="width:1000px">
 I am a Junior Software Developer passionate about creating innovative solutions in the tech landscape. 
+
 > [!NOTE]
 > My journey began at Zoho Corporation, where I developed skills in 
 >
