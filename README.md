@@ -2,7 +2,7 @@
 
 #### <mark> _Computer science Engineer | (Software Developer)_</mark>
 
-<img src="https://github.com/dhanwanthkumar/dhanwanthkumar/blob/main/DK.gif" style="width:100%">
+<img src="https://github.com/dhanwanthkumar/dhanwanthkumar/blob/main/DK.gif" style="width:1000px height:100px">
 
 
 I am a Junior Software Developer passionate about creating innovative solutions in the tech landscape. 
