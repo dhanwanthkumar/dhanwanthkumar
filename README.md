@@ -6,8 +6,9 @@
 
 
 I am a Junior Software Developer passionate about creating innovative solutions in the tech landscape. 
-My journey began at Zoho Corporation, where I developed skills in 
-
+> [!NOTE]
+> My journey began at Zoho Corporation, where I developed skills in 
+>
 >- **cloud operations**
 >    - **programming** 
 >        - **networking, and security**
@@ -18,8 +19,7 @@ Proficient in **data structures** and **algorithms**, I focus on optimizing code
 
 ---
 
-> [!NOTE]
-> Essential details that users should not overlook, even when browsing quickly.
+
 
 > [!TIP]
 > Additional advice to aid users in achieving better outcomes.
