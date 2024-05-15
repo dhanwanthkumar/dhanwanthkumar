@@ -1,10 +1,8 @@
 # Hi there, I'm DK! 👋
 
-#### <mark> _Computer science Engineer | (Software Developer)_</mark>
+<mark> _Computer science Engineer | (Software Developer)_</mark>
 
 <img src="https://github.com/dhanwanthkumar/dhanwanthkumar/blob/main/DK.gif" style="width:1000px">
-
-
 I am a Junior Software Developer passionate about creating innovative solutions in the tech landscape. 
 > [!NOTE]
 > My journey began at Zoho Corporation, where I developed skills in 
@@ -12,7 +10,6 @@ I am a Junior Software Developer passionate about creating innovative solutions 
 >- **cloud operations**
 >    - **programming** 
 >        - **networking, and security**
-
 
 > [!IMPORTANT]
 >Proficient in **data structures** and **algorithms**, I focus on optimizing code and enhancing performance. Eager to continue learning and contributing to the tech community, I am dedicated to advancing in the field of Computer Science Engineering.
